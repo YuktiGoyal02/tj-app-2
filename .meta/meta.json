@@ -41,10 +41,10 @@
   },
   "05231ff7-bfc1-4f9f-a090-0f0b4b69007b": {
     "gitAppName": "app6",
-    "lastCommitMessage": " v1 Version of app app6 promoted from development to staging",
-    "gitVersionId": "833e9ca6-a3aa-4a9e-8415-b6c11dd7c93e",
-    "lastpushDate": "2025-02-04T07:10:05.209Z",
-    "gitVersionName": "v1",
+    "lastCommitMessage": "Version v2 Created of app app6",
+    "gitVersionId": "3384fe53-aee5-41b5-9364-babe0ff4d4b7",
+    "lastpushDate": "2025-02-04T07:10:18.528Z",
+    "gitVersionName": "v2",
     "lastCommitUser": "The Developer"
   }
 }
